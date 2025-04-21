@@ -1,4 +1,4 @@
-# Math Solver
+# MathMorph
 
 A powerful AI-powered math problem solver built with Streamlit and LangChain, leveraging Groq's Llama 3.3 70B model for advanced mathematical reasoning and problem-solving capabilities.
 
@@ -21,9 +21,11 @@ A powerful AI-powered math problem solver built with Streamlit and LangChain, le
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/math-solver.git
-cd math-solver
+mkdir MathMorph
+cd MathMorph
 ```
+
+clone the repo
 
 2. Install the required packages:
 ```bash
@@ -58,23 +60,14 @@ The application uses a combination of:
 ## Project Structure
 
 ```
-math-solver/
+MathMorph/
 ├── app.py              # Main application file
 ├── requirements.txt    # Python dependencies
 ├── .env               # Environment variables
 └── README.md          # Project documentation
 ```
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- [Streamlit](https://streamlit.io/) for the web interface
-- [LangChain](https://www.langchain.com/) for the AI framework
-- [Groq](https://groq.com/) for the powerful LLM 

@@ -63,11 +63,5 @@ The application uses a combination of:
 MathMorph/
 ├── app.py              # Main application file
 ├── requirements.txt    # Python dependencies
-├── .env               # Environment variables
 └── README.md          # Project documentation
 ```
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
